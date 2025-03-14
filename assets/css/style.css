@@ -1,0 +1,34 @@
+/* style.css */
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-header {
+    background-color: rgb(61, 179, 183);
+    color: white;
+}
+
+.card-body {
+    background-color: #e9ecef;
+}
+
+.result-output {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.test-case {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
